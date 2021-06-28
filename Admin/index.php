@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Home';
+    $title = 'Admin Home';
     require_once 'includes/header.php'; 
 ?>
     <h1>Hello, world!</h1>
